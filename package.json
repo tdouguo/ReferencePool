@@ -1,22 +1,18 @@
 {
   "name": "com.tdouguo.ReferencePool",
   "displayName": "ReferencePool",
-  "category": "ReferencePool",
   "description": "This is csharp class instantiation manager.",
-  "unity": "2017.1",
+  "unity": "2019.2",
   "keywords": [
     "ReferencePool",
     "Pool",
     "Class Instantiation Manager"
   ],
+  "dependencies": {},
   "author": {
     "name": "Tdou Guo",
     "email": "tdouguo@gmail.com",
     "url": "https://www.tdouguo.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:tdouguo/ReferencePool.git"
   },
   "version": "0.0.1"
 }
