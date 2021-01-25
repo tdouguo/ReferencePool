@@ -1,9 +1,31 @@
 # Reference Pool
 
-Csharp class Instance helper
+# Installation
 
+### Using OpenUPM (For Unity 2018.3 or later)
+
+This package is available on [OpenUPM](https://openupm.com).  
+You can install it via [openupm-cli](https://github.com/openupm/openupm-cli).
+
+```
+openupm add com.tdouguo.ReferencePool
+```
+
+### Using Unity Package Manager (For Unity 2018.3 or later)
+
+Find the manifest.json file in the Packages folder of your project and edit it to look like this:
+
+```
+{
+  "dependencies": {
+    "com.tdouguo.ReferencePool": "https://github.com/tdouguo/ReferencePool.git",
+    ...
+  },
+}
+```
+
+### Using unitypackage [upkg.net](upkg.net)
 - [ReferencePool.unitypackage](https://upkg.net/ReferencePool)
-- [ReferencePoolExample.unitypackage](https://upkg.net/ReferencePoolExample)
 
 
 # Quick start
