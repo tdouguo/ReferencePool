@@ -1,18 +1,16 @@
 {
-    "name":"com.tdouguo.ReferencePool",
-    "version":"0.0.1",
-    "displayName":"ReferencePool",
-    "description":"C# class Reference Pool",
-    "unity":"2019.1",
-    "dependencies":{
-
-    },
-    "keywords":[
-        "ReferencePool"
-    ],
-    "author":{
-        "name":"tdouguo",
-        "email":"tdouguo@gmail.com",
-        "url":"https://www.tdouguo.com"
-    }
+  "name": "com.tdouguo.ReferencePool",
+  "displayName": "ReferencePool",
+  "description": "C# class Reference Pool",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "ReferencePool"
+  ],
+  "author": {
+    "name": "tdouguo",
+    "email": "tdouguo@gmail.com",
+    "url": "https://www.tdouguo.com"
+  },
+  "version": "0.0.1"
 }
