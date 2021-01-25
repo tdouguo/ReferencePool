@@ -1,16 +1,22 @@
 {
   "name": "com.tdouguo.ReferencePool",
   "displayName": "ReferencePool",
-  "description": "C# class Reference Pool",
-  "unity": "2019.1",
-  "dependencies": {},
+  "category": "ReferencePool",
+  "description": "This is csharp class instantiation manager.",
+  "version": "",
+  "unity": "2017.1",
   "keywords": [
-    "ReferencePool"
+    "ReferencePool",
+    "Pool",
+    "Class Instantiation Manager"
   ],
   "author": {
-    "name": "tdouguo",
+    "name": "Tdou Guo",
     "email": "tdouguo@gmail.com",
-    "url": "https://www.tdouguo.com"
+    "url": "https://www.tdouguo.com/"
   },
-  "version": "0.0.1"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tdouguo/ReferencePool.git"
+  }
 }
