@@ -3,7 +3,6 @@
   "displayName": "ReferencePool",
   "category": "ReferencePool",
   "description": "This is csharp class instantiation manager.",
-  "version": "",
   "unity": "2017.1",
   "keywords": [
     "ReferencePool",
@@ -18,5 +17,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:tdouguo/ReferencePool.git"
-  }
+  },
+  "version": "0.0.1"
 }
